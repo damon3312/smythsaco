@@ -12,6 +12,8 @@ Required Modules
 
 Install modules in CMD shell using pip, run commands 'pip install <module_name>' (Remove <> and ''). If 'no module named <module_name>' error happens just skip.
 
+Download chromedriver here https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/. Extract it and take the .exe out the folder and copy the path to the variable inside the .py.
+
 Edit the .py file lines 16 to 25, these are the data needed to ATC, do not include any spaces in the post code, make sure the email is a new email that hasn't been used on smyths before. Chrome driver path use two \\ instead of a singular \.
 
 How to get sku of item:
