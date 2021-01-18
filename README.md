@@ -20,7 +20,7 @@ How to get sku of item:
 https://www.smythstoys.com/uk/en-gb/video-games-and-tablets/playstation-5/playstation-5-consoles/playstation-5-console/p/191259
 The end of the URL '191259' is the sku.
 
-Simply run the .py enter the product URL and then the SKU and you should be good to go. Monitor delays are at 7 seconds, you can reduce or up this I havebeen running this all day without and rate limits so experiment.
+Simply run the .py enter the product URL and then the SKU and you should be good to go. Monitor delays are at 7 seconds, you can reduce or up this I have been running this all day without and rate limits so experiment. To change change the number on line 96 and 99.
 
 This was only intented to help you guys get at least one console.Those who want to develop the scripts look into selenium module to add lines of code to auto fill the last stages of checkout. Thos who want multiples just duplicated the script and run different information, or you can look into threading or multiprocessing to develop it.
 
