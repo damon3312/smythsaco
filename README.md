@@ -25,3 +25,5 @@ Simply run the .py enter the product URL and then the SKU and you should be good
 This was only intented to help you guys get at least one console.Those who want to develop the scripts look into selenium module to add lines of code to auto fill the last stages of checkout. Thos who want multiples just duplicated the script and run different information, or you can look into threading or multiprocessing to develop it.
 
 This is my first Github post so bear with me if it's bad. Good luck on the Console restock.
+
+Follow my twitter - https://twitter.com/damon3312 (;
