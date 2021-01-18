@@ -26,4 +26,7 @@ This was only intented to help you guys get at least one console.Those who want 
 
 This is my first Github post so bear with me if it's bad. Good luck on the Console restock.
 
+**UPDATE**
+Seems like OOS items apart from Playsations you can atc and get to delivery steps before getting error messages. If this is the cas eleave it running you will get Error submitting delivery information until it restocks. It is possible that Smyths just fully locked adding to cart for playstation only reason i can think of.
+
 Follow my twitter - https://twitter.com/damon3312 (;
